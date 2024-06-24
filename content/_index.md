@@ -41,6 +41,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: working papers
+    content:
+      title: Working papers
+      text: ""
+      filters:
+        folders:
+          - working_papers
+        exclude_featured: false
+    design:
+      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
