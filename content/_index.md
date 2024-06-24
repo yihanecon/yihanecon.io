@@ -41,10 +41,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
- - block: awards
-    content:
-      title: Research
-      username: admin
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
