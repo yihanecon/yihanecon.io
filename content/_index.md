@@ -42,7 +42,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: working papers
+    id: working
     content:
       title: Working papers
       text: ""
