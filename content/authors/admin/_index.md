@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 韩奕
+title: Yi Han
 
 # Name pronunciation (optional)
-name_pronunciation: Yi Han
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yi
