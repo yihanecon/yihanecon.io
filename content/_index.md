@@ -33,13 +33,12 @@ sections:
   - block: markdown
     content:
       title: 'Published Papers'
-      text: |-
-        ### "[Inter-Regional Barriers and Economic Growth: Evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530)"
-        (with Mingqin Wu)
-
-        *Journal of Development Economics* 167 (2024): 103197
-
-        "Coverage: [The Trade War Within China](https://www.economist.com/china/2022/07/21/the-trade-war-within-china), Economist."
+      filters:
+        folders:
+          - published
+        exclude_featured: true
+    design:
+      view: citation
   - block: collection
     id: publications
     content:
@@ -48,7 +47,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
   - block: collection
