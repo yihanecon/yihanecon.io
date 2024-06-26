@@ -10,8 +10,6 @@ first_name: Yi
 last_name: Han
 
 # Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -127,8 +125,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Welcome!
 
-I am an assistant professor at the [School of Applied Economics at Renmin University of China](http://ae.ruc.edu.cn/).
-My research interests ar Development Economics and Behavioral Economics.
-Welcome to contact me. My email is yihanecon@ruc.edu.cn.
+I am an assistant professor at the [School of Applied Economics](http://ae.ruc.edu.cn/) at [Renmin University of China](https://www.ruc.edu.cn/). My research interests are Development Economics and Behavioral Economics. 
+Email: yihanecon@ruc.edu.cn.
