@@ -33,12 +33,11 @@ sections:
   - block: markdown
     content:
       title: 'Published Papers'
-      filters:
-        folders:
-          - published
-        exclude_featured: true
+      subtitle: ''
+      text:
+        <h3>Inter-Regional Barriers and Economic Growth：Evidence from China</h3>
     design:
-      view: citation
+      columns: '1'
   - block: collection
     id: publications
     content:
