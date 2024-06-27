@@ -66,10 +66,10 @@ sections:
       subtitle: ''
       text: |-
        <p style="font-size: 24px;line-height:28px;">Advanced Econometrics (graduate), Spring 2021, 2022, 2023, 2024</p> 
-       <p style="color: CornflowerBlue;font-size: 27px;line-height:30px;">The Gender Gap in Gender-Blind College Admissions</p> 
-       <p> (with Yiming Liu, Dorothea KÃijbler, XinyeZheng, and Yibo Zong)</p> 
-       <p style="color: CornflowerBlue;font-size: 27px;line-height:30px;">Political Trust, Delegation, and Responsibility-Shifting: Evidence from China’s One-Child Policy</p> 
-       <p> (with Yiming Liu)</p> 
+       <p style="font-size: 24px;line-height:28px;">Microeconometrics (undergraduate), Spring 2023, 2024</p> 
+       <p style="font-size: 24px;line-height:28px;">Behavioral Economics (undergraduate), Spring 2023, 2024</p> 
+       <p style="font-size: 24px;line-height:28px;">Introduction to Macroeconomics (undergraduate), Spring 2021, Spring 2022</p> 
+       <p style="font-size: 24px;line-height:28px;">Introduction to Microeconomics (undergraduate), Summer 2018, 2019</p> 
     design:
       columns: '1'
   - block: cta-card
