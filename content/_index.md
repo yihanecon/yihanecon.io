@@ -35,8 +35,8 @@ sections:
       title: 'Published Papers'
       subtitle: ''
       text: |-
-       <h4><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: CornflowerBlue;">Inter-Regional Barriers and Economic Growth：Evidence from China</a></h4>
-       <p style=line-height:30%;> (with Mingqin Wu)<br>Journal of Development Economics 167 (2024): 103197.</p>
+       <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: CornflowerBlue;">Inter-Regional Barriers and Economic Growth：Evidence from China</a></h3>
+       <p style=line-height:50%;> (with Mingqin Wu)<br>Journal of Development Economics 167 (2024): 103197.</p>
     design:
       columns: '1'
   - block: collection
