@@ -35,7 +35,6 @@ sections:
       title: 'Published Papers'
       subtitle: ''
       text:
-        <h6>Inter-Regional Barriers and Economic Growth：Evidence from China</h6>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530">Inter-Regional Barriers and Economic Growth：Evidence from China</a>
     design:
       columns: '1'
