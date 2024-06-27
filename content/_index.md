@@ -47,7 +47,7 @@ sections:
     design:
       columns: '1'
    - block: markdown
-    content:
+     content:
       title: 'Working Papers'
       subtitle: ''
       text: |-
