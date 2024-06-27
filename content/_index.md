@@ -51,12 +51,12 @@ sections:
       title: 'Working Papers'
       subtitle: ''
       text: |-
-       <p style="color: CornflowerBlue;font-size: 27px;line-height:28px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</p> 
+       <p style="color: CornflowerBlue;font-size: 27px;line-height:30px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</p> 
        <p> (with Yiming Liu and David Huffman)</p>
-       <p style="color: CornflowerBlue;font-size: 27px;line-height:20px;">The Gender Gap in Gender-Blind College Admissions</p> <br>
-       <p style=line-height:26px;> (with Yiming Liu, Dorothea KÃijbler, XinyeZheng, and Yibo Zong)</p> <br>
-       <p style="color: CornflowerBlue;font-size: 27px;line-height:20px;">Political Trust, Delegation, and Responsibility-Shifting: Evidence from China’s One-Child Policy</p> <br>
-       <p style=line-height:26px;> (with Yiming Liu)</p> <br>
+       <p style="color: CornflowerBlue;font-size: 27px;line-height:30px;">The Gender Gap in Gender-Blind College Admissions</p> 
+       <p> (with Yiming Liu, Dorothea KÃijbler, XinyeZheng, and Yibo Zong)</p> 
+       <p style="color: CornflowerBlue;font-size: 27px;line-height:30px;">Political Trust, Delegation, and Responsibility-Shifting: Evidence from China’s One-Child Policy</p> 
+       <p> (with Yiming Liu)</p> 
     design:
       columns: '1'
   - block: collection
