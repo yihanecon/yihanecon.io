@@ -34,7 +34,8 @@ sections:
     content:
       title: 'Published Papers'
       subtitle: ''
-      text:
+      text: |-
+        <p style="line-height: 50%;">
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530">Inter-Regional Barriers and Economic Growth：Evidence from China</a> <br>
         <p>(with Mingqin Wu)</p>
     design:
