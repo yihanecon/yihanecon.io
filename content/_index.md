@@ -51,8 +51,8 @@ sections:
       title: 'Working Papers'
       subtitle: ''
       text: |-
-       <p style="color: CornflowerBlue;font-size: 27px;line-height:20px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</p> <br>
-       <p style=line-height:26px;> (with Yiming Liu and David Huffman)</p> <br>
+       <p style="color: CornflowerBlue;font-size: 27px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</p> 
+       <p style=line-height:20px;> (with Yiming Liu and David Huffman)</p> 
        <p style="color: CornflowerBlue;font-size: 27px;line-height:20px;">The Gender Gap in Gender-Blind College Admissions</p> <br>
        <p style=line-height:26px;> (with Yiming Liu, Dorothea KÃijbler, XinyeZheng, and Yibo Zong)</p> <br>
        <p style="color: CornflowerBlue;font-size: 27px;line-height:20px;">Political Trust, Delegation, and Responsibility-Shifting: Evidence from China’s One-Child Policy</p> <br>
