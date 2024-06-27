@@ -59,17 +59,19 @@ sections:
        <p> (with Yiming Liu)</p> 
     design:
       columns: '1'
-  - block: collection
-    id: working
+  - block: markdown
+    id: teaching
     content:
-      title: Working papers
-      text: ""
-      filters:
-        folders:
-          - working_papers
-        exclude_featured: false
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+       <p style="font-size: 24px;line-height:28px;">Advanced Econometrics (graduate), Spring 2021, 2022, 2023, 2024</p> 
+       <p style="color: CornflowerBlue;font-size: 27px;line-height:30px;">The Gender Gap in Gender-Blind College Admissions</p> 
+       <p> (with Yiming Liu, Dorothea KÃijbler, XinyeZheng, and Yibo Zong)</p> 
+       <p style="color: CornflowerBlue;font-size: 27px;line-height:30px;">Political Trust, Delegation, and Responsibility-Shifting: Evidence from China’s One-Child Policy</p> 
+       <p> (with Yiming Liu)</p> 
     design:
-      view: citation
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

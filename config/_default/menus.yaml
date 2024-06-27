@@ -10,6 +10,6 @@ main:
   - name: Publications
     url: /#publications
     weight: 11
-  - name: Working papers
-    url: /#working
+  - name: Teaching
+    url: /#workingteaching
     weight: 15
