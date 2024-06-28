@@ -36,7 +36,7 @@ sections:
       title: 'Published Papers'
       subtitle: ''
       text: |-
-       <p style="line-height:26px;font-size: 18px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Inter-Regional Barriers and Economic Growth：Evidence from China</a>
+       <p style="line-height:26px;font-size: 14px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Inter-Regional Barriers and Economic Growth：Evidence from China</a>
          (with Mingqin Wu) <br> <em>Journal of Development Economics</em> 167 (2024): 103197.</p>
        <p style="line-height:26px;font-size: 18px;"> (with Mingqin Wu) <br> <em>Journal of Development Economics</em> 167 (2024): 103197.</p> 
        <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4384" style="color: CornflowerBlue;font-size: 27px;line-height:20px;">Confusing Context with Character: Correspondence Bias in Economic Interactions</a>
