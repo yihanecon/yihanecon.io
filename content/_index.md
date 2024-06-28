@@ -64,11 +64,11 @@ sections:
       subtitle: ''
       text: |-
        <h2 style="color: DarkGreen;">Teaching</h2>
-       <p style="font-size: 20px;line-height:28px;">Advanced Econometrics (graduate), Spring 2021, 2022, 2023, 2024</p> 
-       <p style="font-size: 20px;line-height:28px;">Microeconometrics (undergraduate), Spring 2023, 2024</p> 
-       <p style="font-size: 20px;line-height:28px;">Behavioral Economics (undergraduate), Spring 2023, 2024</p> 
-       <p style="font-size: 20px;line-height:28px;">Introduction to Macroeconomics (undergraduate), Spring 2021, Spring 2022</p> 
-       <p style="font-size: 20px;line-height:28px;">Introduction to Microeconomics (undergraduate), Summer 2018, 2019</p> 
+       <p style="font-size: 17px;line-height:28px;">Advanced Econometrics (graduate), Spring 2021, 2022, 2023, 2024</p> 
+       <p style="font-size: 17px;line-height:28px;">Microeconometrics (undergraduate), Spring 2023, 2024</p> 
+       <p style="font-size: 17px;line-height:28px;">Behavioral Economics (undergraduate), Spring 2023, 2024</p> 
+       <p style="font-size: 17px;line-height:28px;">Introduction to Macroeconomics (undergraduate), Spring 2021, Spring 2022</p> 
+       <p style="font-size: 17px;line-height:28px;">Introduction to Microeconomics (undergraduate), Summer 2018, 2019</p> 
     design:
       columns: '1'
   - block: cta-card
