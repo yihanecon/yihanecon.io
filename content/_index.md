@@ -53,7 +53,7 @@ sections:
       subtitle: ''
       text: |-
        <h2 style="color: DarkGreen;">Working Papers</h2>
-       <p style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</p> <br> (with Yiming Liu and David Huffman)
+       <p style="color: CornflowerBlue;font-size: 20px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</p> (with Yiming Liu and David Huffman)
        <p style="color: CornflowerBlue;font-size: 20px;line-height:20px;">The Gender Gap in Gender-Blind College Admissions</p> <br> (with Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong)
     design:
       columns: '1'
