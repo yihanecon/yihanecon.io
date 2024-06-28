@@ -33,16 +33,17 @@ sections:
   - block: markdown
     id: publications
     content:
-      title: 'Published Papers'
+      title: ''
       subtitle: ''
       text: |-
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Inter-Regional Barriers and Economic Growth：Evidence from China</a>
+       <h2 style="color: DarkGreen;">Published Papers</h2>
+       <p style="line-height:26px;font-size: 17px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Inter-Regional Barriers and Economic Growth：Evidence from China</a> <br>
          (with Mingqin Wu) <br> <em>Journal of Development Economics</em> 167 (2024): 103197.</p>
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4384" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Confusing Context with Character: Correspondence Bias in Economic Interactions</a>
+       <p style="line-height:26px;font-size: 17px;"> <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4384" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Confusing Context with Character: Correspondence Bias in Economic Interactions</a> <br>
          (with Yiming Liu and George Loewenstein) <br> <em>Management Science</em>, 69.2 (2023): 1070-1091.</p> 
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://link.springer.com/article/10.1007/s10640-019-00374-3" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Conservation Spillovers: the Effect of Rooftop Solar on Climate Change Beliefs</a>
+       <p style="line-height:26px;font-size: 17px;"> <a href="https://link.springer.com/article/10.1007/s10640-019-00374-3" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">Conservation Spillovers: the Effect of Rooftop Solar on Climate Change Beliefs</a> <br>
          (with Graham Beattie and Andrea LaNauze) <br> <em>Environmental and Resource Economics</em>, 74.3(2019): 1425-1451.</p>
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797" style="color: CornflowerBlue;font-size: 27px;line-height:20px;">On the Demand for Natural Gas in Urban China</a>
+       <p style="line-height:26px;font-size: 17px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797" style="color: CornflowerBlue;font-size: 20px;line-height:20px;">On the Demand for Natural Gas in Urban China</a> <br>
          (with Xinye Zheng, Yihua Yu) <br> <em>Energy Policy</em>, 70(2014): 57-63.</p>
     design:
       columns: '1'
