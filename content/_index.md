@@ -54,20 +54,21 @@ sections:
       text: |-
        <h2 style="color: DarkGreen;">Working Papers</h2>
        <p style="font-size: 17px;"> <span style="color: CornflowerBlue;font-size: 20px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</span> <br> (with Yiming Liu and David Huffman)</p> 
-       <p style="color: CornflowerBlue;font-size: 20px;line-height:20px;">The Gender Gap in Gender-Blind College Admissions</p> <br> (with Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong)
+       <p style="font-size: 17px;"> <span style="color: CornflowerBlue;font-size: 20px;line-height:25px;">The Gender Gap in Gender-Blind College Admissions</span> <br> (with Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong)</p>
     design:
       columns: '1'
   - block: markdown
     id: teaching
     content:
-      title: 'Teaching'
+      title: ''
       subtitle: ''
       text: |-
-       <p style="font-size: 24px;line-height:28px;">Advanced Econometrics (graduate), Spring 2021, 2022, 2023, 2024</p> 
-       <p style="font-size: 24px;line-height:28px;">Microeconometrics (undergraduate), Spring 2023, 2024</p> 
-       <p style="font-size: 24px;line-height:28px;">Behavioral Economics (undergraduate), Spring 2023, 2024</p> 
-       <p style="font-size: 24px;line-height:28px;">Introduction to Macroeconomics (undergraduate), Spring 2021, Spring 2022</p> 
-       <p style="font-size: 24px;line-height:28px;">Introduction to Microeconomics (undergraduate), Summer 2018, 2019</p> 
+       <h2 style="color: DarkGreen;">Teaching</h2>
+       <p style="font-size: 20px;line-height:28px;">Advanced Econometrics (graduate), Spring 2021, 2022, 2023, 2024</p> 
+       <p style="font-size: 20px;line-height:28px;">Microeconometrics (undergraduate), Spring 2023, 2024</p> 
+       <p style="font-size: 20px;line-height:28px;">Behavioral Economics (undergraduate), Spring 2023, 2024</p> 
+       <p style="font-size: 20px;line-height:28px;">Introduction to Macroeconomics (undergraduate), Spring 2021, Spring 2022</p> 
+       <p style="font-size: 20px;line-height:28px;">Introduction to Microeconomics (undergraduate), Summer 2018, 2019</p> 
     design:
       columns: '1'
   - block: cta-card
