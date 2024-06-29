@@ -128,4 +128,5 @@ awards:
 ## Welcome!
 
 I am an assistant professor at the School of Applied Economics at Renmin University of China. My research interests are Development Economics and Behavioral Economics. 
-Email: yihanecon@ruc.edu.cn.
+
+Email： yihanecon@ruc.edu.cn.
