@@ -22,7 +22,8 @@ role:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - icon: brands/google-scholar
+  -profiles:
+    - icon: brands/google-scholar
   - name: Google Scholar
 
 # Social network links
