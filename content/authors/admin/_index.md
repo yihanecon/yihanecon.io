@@ -22,9 +22,8 @@ role:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  -profiles:
-    - icon: brands/google-scholar
-  - name: Google Scholar
+  - icon: brands/google-scholar
+  - name:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
