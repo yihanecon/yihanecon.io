@@ -28,6 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/google-scholar
+  - label: Google Scholar
 
 work:
   - position: Director of Cloud Infrastructure
@@ -131,5 +132,5 @@ awards:
 
 I am an assistant professor at the School of Applied Economics at Renmin University of China. My research interests are Development Economics and Behavioral Economics. 
 
-icon: brands/google-scholar
+
 Email： yihanecon@ruc.edu.cn.
