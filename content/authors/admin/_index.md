@@ -26,7 +26,8 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-- icon: brands/google-scholar
+profiles:
+  - icon: brands/google-scholar
 
 work:
   - position: Director of Cloud Infrastructure
