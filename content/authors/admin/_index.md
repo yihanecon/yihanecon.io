@@ -132,12 +132,7 @@ awards:
 <!DOCTYPE html>
 <html>
 <body>
-    <p>I am an assistant professor.</p>
+    <p>I am an assistant professor at the School of Applied Economics at Renmin University of China. My research interests are Development Economics and Behavioral Economics.</p>
+    <p>Email： yihanecon@ruc.edu.cn. &nbsp <a href="https://scholar.google.com/citations?user=TmVLv60AAAAJ&hl=en/">Google Scholar</a></p>
 </body>
 </html>
-
-I am an assistant professor at the School of Applied Economics at Renmin University of China. My research interests are Development Economics and Behavioral Economics. 
-
-
-Email： yihanecon@ruc.edu.cn. 
-[Google Scholar](https://scholar.google.com/citations?user=TmVLv60AAAAJ&hl=en)
