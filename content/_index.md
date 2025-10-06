@@ -45,7 +45,10 @@ sections:
        <p style="line-height:26px;font-size: 17px;"> <a href="https://link.springer.com/article/10.1007/s10640-019-00374-3" style="color: DarkGreen;font-size: 20px;line-height:20px;">Conservation Spillovers: the Effect of Rooftop Solar on Climate Change Beliefs</a> <br>
          (with Graham Beattie and Andrea LaNauze) <br> <em>Environmental and Resource Economics</em>, 74.3(2019): 1425-1451.</p>
        <p style="line-height:26px;font-size: 17px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797" style="color: DarkGreen;font-size: 20px;line-height:20px;">On the Demand for Natural Gas in Urban China</a> <br>
-         (with Xinye Zheng, Yihua Yu) <br> <em>Energy Policy</em>, 70(2014): 57-63.</p>
+         (with Xinye Zheng and Yihua Yu) <br> <em>Energy Policy</em>, 70(2014): 57-63.</p>
+       <p style="line-height:26px;font-size: 17px;"> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TmVLv60AAAAJ&citation_for_view=TmVLv60AAAAJ:IjCSPb-OGe4C" style="color: DarkGreen;font-size: 20px;line-height:20px;">Reducing administrative barriers: Evidence from China's county-to-district reform on export product quality</a> <br>
+         (with Qi Guo, Jun Liu, Shengjun Zhu and Canfei He) <br> <em>Energy Policy</em>, 70(2014): 57-63.</p>
+
     design:
       columns: '1'
   - block: markdown
