@@ -1,0 +1,9 @@
+
+# Local pinned Hugo binary for preview
+.hugobin/
+
+# Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
