@@ -31,8 +31,8 @@ section.blox-markdown .prose h2 {
 
 /* Larger, rectangular (portrait) profile photo instead of a small circle. */
 img.avatar {
-  width: 28rem;          /* ~448px wide */
-  height: 35rem;         /* ~560px tall (4:5 portrait) */
+  width: 32rem;          /* ~512px wide */
+  height: 40rem;         /* ~640px tall (4:5 portrait) */
   max-width: none;
   border-radius: 0.5rem; /* rectangular frame with subtly rounded corners */
   object-fit: cover;
