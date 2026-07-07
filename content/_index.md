@@ -57,7 +57,7 @@ sections:
       subtitle: ''
       text: |-
        <h2>Working Papers</h2>
-       <p style="font-size: 17px;"> <span style="color: DarkGreen;font-size: 20px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</span> <br> (with Yiming Liu and David Huffman)</p> 
+       <p style="font-size: 17px;"> <span style="color: DarkGreen;font-size: 20px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</span> <br> (with Yiming Liu and David Huffman) <br> <em>Revise and Resubmit at The American Economic Review</em></p> 
        <p style="font-size: 17px;"> <span style="color: DarkGreen;font-size: 20px;line-height:25px;">The Gender Gap in Gender-Blind College Admissions</span> <br> (with Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong)</p>
     design:
       columns: '1'
