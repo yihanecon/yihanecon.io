@@ -12,6 +12,11 @@ section.blox-markdown .items-center {
   align-items: flex-start;
 }
 
+/* Remove underline from the bold paper-title links (published + working papers). */
+section.blox-markdown .prose a[style*="font-weight: 600"] {
+  text-decoration: none;
+}
+
 /* Green section headings (deep emerald) for a cohesive multi-shade green look. */
 section.blox-markdown .prose h2 {
   color: #064e3b;      /* deep emerald */
