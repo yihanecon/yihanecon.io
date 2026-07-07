@@ -13,8 +13,9 @@ section.blox-markdown .items-center {
 }
 
 /* Remove underline from the bold paper-title links (published + working papers). */
-section.blox-markdown .prose a[style*="font-weight: 600"] {
-  text-decoration: none;
+section.blox-markdown .prose a[style*="font-weight: 600"],
+section.blox-markdown .prose a[style*="font-weight: 600"]:hover {
+  text-decoration: none !important;
 }
 
 /* Green section headings (deep emerald) for a cohesive multi-shade green look. */
