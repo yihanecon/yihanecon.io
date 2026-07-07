@@ -1,5 +1,39 @@
-/* Widen the text content blocks so page margins are smaller
-   and long titles (e.g. working paper titles) stay on one line. */
-.prose.max-w-prose {
-  max-width: 60rem;
+/* Reduce page margins by widening the content containers.
+   `max-w-prose` is applied both to the inner text block and to its
+   outer flex wrapper, so overriding the class itself widens both and
+   keeps long titles (e.g. working paper titles) on one line. */
+.max-w-prose {
+  max-width: 68rem;
+}
+
+/* Left-align the text sections so headings sit flush-left with the entries
+   (the theme centers them by default). */
+section.blox-markdown .items-center {
+  align-items: flex-start;
+}
+
+/* Green section headings (deep emerald) for a cohesive multi-shade green look. */
+section.blox-markdown .prose h2 {
+  color: #064e3b;      /* deep emerald */
+  font-size: 1.375rem; /* ~22px, matching La Nauze's compact headings */
+}
+.dark section.blox-markdown .prose h2 {
+  color: #6ee7b7;   /* lighter emerald for dark mode */
+}
+
+/* Constrain the hero to the same width as the content sections and center it,
+   so it lines up with the blocks below instead of sitting flush-left. */
+#section-resume-biography-3 .resume-biography {
+  max-width: 68rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Larger, rectangular (portrait) profile photo instead of a small circle. */
+img.avatar {
+  width: 28rem;          /* ~448px wide */
+  height: 35rem;         /* ~560px tall (4:5 portrait) */
+  max-width: none;
+  border-radius: 0.5rem; /* rectangular frame with subtly rounded corners */
+  object-fit: cover;
 }

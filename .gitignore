@@ -7,3 +7,6 @@ public/
 resources/
 .hugo_build.lock
 hugo_stats.json
+
+# Hugo modules lockfile (regenerated at build time)
+go.sum

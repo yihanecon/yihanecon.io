@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -14,22 +14,27 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Curriculum Vitae
-        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
-        color: black
+        color: '#003223'
         image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: hero-bg.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+       <h2>Working Papers</h2>
+       <p style="font-size: 15px;"> <span style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</span> <br> (with Yiming Liu and David Huffman) <br> <em>Revise and Resubmit at The American Economic Review</em></p> 
+       <p style="font-size: 15px;"> <span style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">The Gender Gap in Gender-Blind College Admissions</span> <br> (with Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong)</p>
+    design:
+      columns: '1'
   - block: markdown
     id: publications
     content:
@@ -37,28 +42,28 @@ sections:
       subtitle: ''
       text: |-
        <h2>Published Papers</h2>
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TmVLv60AAAAJ&citation_for_view=TmVLv60AAAAJ:IjCSPb-OGe4C" style="color: DarkGreen;font-size: 20px;line-height:20px;">Reducing administrative barriers: Evidence from China's county-to-district reform on export product quality</a> <br>
+       <p style="line-height:26px;font-size: 15px;"> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TmVLv60AAAAJ&citation_for_view=TmVLv60AAAAJ:IjCSPb-OGe4C" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Reducing administrative barriers: Evidence from China's county-to-district reform on export product quality</a> <br>
          (with Qi Guo, Jun Liu, Shengjun Zhu and Canfei He) <br> <em>Cities</em>, 166 (2025): 106233</p>
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: DarkGreen;font-size: 20px;line-height:20px;">Inter-Regional Barriers and Economic Growth：Evidence from China</a> <br>
+       <p style="line-height:26px;font-size: 15px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Inter-Regional Barriers and Economic Growth：Evidence from China</a> <br>
          (with Mingqin Wu) <br> <em>Journal of Development Economics</em>, 167 (2024): 103197. <br> 
-         Coverage:<a href="https://www.economist.com/china/2022/07/21/the-trade-war-within-china" style="font-size: 17px;line-height:26px;">Economist</a> & <a href="https://voxchina.org/show-3-374.html" style="font-size: 17px;line-height:26px;">VoxChina</a>.</p>
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4384" style="color: DarkGreen;font-size: 20px;line-height:20px;">Confusing Context with Character: Correspondence Bias in Economic Interactions</a> <br>
+         Coverage:<a href="https://www.economist.com/china/2022/07/21/the-trade-war-within-china" style="font-size: 15px;line-height:26px;">Economist</a> & <a href="https://voxchina.org/show-3-374.html" style="font-size: 15px;line-height:26px;">VoxChina</a>.</p>
+       <p style="line-height:26px;font-size: 15px;"> <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4384" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Confusing Context with Character: Correspondence Bias in Economic Interactions</a> <br>
          (with Yiming Liu and George Loewenstein) <br> <em>Management Science</em>, 69.2 (2023): 1070-1091.</p> 
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://link.springer.com/article/10.1007/s10640-019-00374-3" style="color: DarkGreen;font-size: 20px;line-height:20px;">Conservation Spillovers: the Effect of Rooftop Solar on Climate Change Beliefs</a> <br>
+       <p style="line-height:26px;font-size: 15px;"> <a href="https://link.springer.com/article/10.1007/s10640-019-00374-3" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Conservation Spillovers: the Effect of Rooftop Solar on Climate Change Beliefs</a> <br>
          (with Graham Beattie and Andrea LaNauze) <br> <em>Environmental and Resource Economics</em>, 74.3(2019): 1425-1451.</p>
-       <p style="line-height:26px;font-size: 17px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797" style="color: DarkGreen;font-size: 20px;line-height:20px;">On the Demand for Natural Gas in Urban China</a> <br>
+       <p style="line-height:26px;font-size: 15px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">On the Demand for Natural Gas in Urban China</a> <br>
          (with Xinye Zheng and Yihua Yu) <br> <em>Energy Policy</em>, 70(2014): 57-63.</p>
 
     design:
       columns: '1'
   - block: markdown
+    id: research-in-progress
     content:
       title: ''
       subtitle: ''
       text: |-
-       <h2>Working Papers</h2>
-       <p style="font-size: 17px;"> <span style="color: DarkGreen;font-size: 20px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</span> <br> (with Yiming Liu and David Huffman) <br> <em>Revise and Resubmit at The American Economic Review</em></p> 
-       <p style="font-size: 17px;"> <span style="color: DarkGreen;font-size: 20px;line-height:25px;">The Gender Gap in Gender-Blind College Admissions</span> <br> (with Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong)</p>
+       <h2>Research in Progress</h2>
+       <p style="font-size: 15px;"> <span style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Model-Directed Attention and the Persistence of Wrong Mental Models: The Case of Pricing</span> <br> (with Yiming Liu and David Huffman)</p>
     design:
       columns: '1'
   - block: markdown
@@ -68,11 +73,11 @@ sections:
       subtitle: ''
       text: |-
        <h2>Teaching</h2>
-       <p style="font-size: 17px;line-height:28px;">Advanced Econometrics (graduate), Spring 2021, 2022, 2023, 2024</p> 
-       <p style="font-size: 17px;line-height:28px;">Microeconometrics (undergraduate), Spring 2023, 2024</p> 
-       <p style="font-size: 17px;line-height:28px;">Behavioral Economics (undergraduate), Spring 2023, 2024</p> 
-       <p style="font-size: 17px;line-height:28px;">Introduction to Macroeconomics (undergraduate), Spring 2021, Spring 2022</p> 
-       <p style="font-size: 17px;line-height:28px;">Introduction to Microeconomics (undergraduate), Summer 2018, 2019</p> 
+       <p style="font-size: 15px;line-height:28px;">Advanced Econometrics (graduate), Spring 2021, 2022, 2023, 2024</p> 
+       <p style="font-size: 15px;line-height:28px;">Microeconometrics (undergraduate), Spring 2023, 2024</p> 
+       <p style="font-size: 15px;line-height:28px;">Behavioral Economics (undergraduate), Spring 2023, 2024</p> 
+       <p style="font-size: 15px;line-height:28px;">Introduction to Macroeconomics (undergraduate), Spring 2021, Spring 2022</p> 
+       <p style="font-size: 15px;line-height:28px;">Introduction to Microeconomics (undergraduate), Summer 2018, 2019</p> 
     design:
       columns: '1'
   - block: cta-card
