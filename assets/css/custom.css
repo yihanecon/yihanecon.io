@@ -1,0 +1,5 @@
+/* Widen the text content blocks so page margins are smaller
+   and long titles (e.g. working paper titles) stay on one line. */
+.prose.max-w-prose {
+  max-width: 60rem;
+}
