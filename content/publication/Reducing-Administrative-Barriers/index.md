@@ -32,8 +32,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Google Scholar
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TmVLv60AAAAJ&citation_for_view=TmVLv60AAAAJ:IjCSPb-OGe4C
+- name: Journal
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0264275125005347
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -42,7 +42,7 @@ sections:
       subtitle: ''
       text: |-
        <h2>Published Papers</h2>
-       <p style="line-height:26px;font-size: 15px;"> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TmVLv60AAAAJ&citation_for_view=TmVLv60AAAAJ:IjCSPb-OGe4C" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Reducing Administrative Barriers: Evidence from China's County-to-district Reform on Export Product Quality</a> <br>
+       <p style="line-height:26px;font-size: 15px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264275125005347" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Reducing Administrative Barriers: Evidence from China's County-to-district Reform on Export Product Quality</a> <br>
          (with Qi Guo, Jun Liu, Shengjun Zhu and Canfei He) <br> <em>Cities</em>, 166 (2025): 106233</p>
        <p style="line-height:26px;font-size: 15px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Inter-Regional Barriers and Economic Growth：Evidence from China</a> <br>
          (with Mingqin Wu) <br> <em>Journal of Development Economics</em>, 167 (2024): 103197. <br> 
