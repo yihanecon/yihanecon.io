@@ -30,7 +30,7 @@ organizations:
 <html>
 <body>
     <p>Welcome!</p>
-    <p>I am an associate professor in the School of Applied Economics at Renmin University of China. My research interests are in behavioral economics and development economics. My research agenda focuses on the frictions that prevent individuals, firms, and markets from functioning efficiently, ranging from cognitive frictions, such as people's beliefs, mental models, and biases, to institutional frictions. I combine experimental and observational data to understand the sources and consequences of these frictions.</p>
+    <p>I am an associate professor in the School of Applied Economics at Renmin University of China, with research interests in behavioral and development economics. My research agenda focuses on the frictions that prevent individuals, firms, and markets from functioning efficiently, ranging from cognitive frictions, such as people's beliefs, mental models, and biases, to institutional frictions. I combine experimental and observational data to understand the sources and consequences of these frictions.</p>
     <p>Email: yihanecon@ruc.edu.cn</p>
     <p><a href="uploads/resume.pdf">CV</a>&emsp;&emsp;&emsp;<a href="https://scholar.google.com/citations?user=TmVLv60AAAAJ&hl=en">Google Scholar</a></p>
 </body>
