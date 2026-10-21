@@ -33,6 +33,7 @@ sections:
        <h2>Working Papers</h2>
        <p style="font-size: 15px;"> <a href="uploads/manager_han_huffman_liu.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</a> <br> (with Yiming Liu and David Huffman) <br> <em>Revise and Resubmit at The American Economic Review</em></p> 
        <p style="font-size: 15px;"> <a href="uploads/gender_gap_in_gender_blind_college_admissions.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">The Gender Gap in Gender-Blind College Admissions</a> <br> (with Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong)</p>
+       <p style="font-size: 15px;"> <a href="uploads/model_directed_attention_han_huffman_liu.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Model-Directed Attention and the Persistence of Wrong Mental Models: Evidence from Firm Pricing</a> <br> (with David Huffman and Yiming Liu)</p>
     design:
       columns: '1'
   - block: markdown
@@ -54,16 +55,6 @@ sections:
        <p style="line-height:26px;font-size: 15px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">On the Demand for Natural Gas in Urban China</a> <br>
          (with Xinye Zheng and Yihua Yu) <br> <em>Energy Policy</em>, 70(2014): 57-63.</p>
 
-    design:
-      columns: '1'
-  - block: markdown
-    id: research-in-progress
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-       <h2>Research in Progress</h2>
-       <p style="font-size: 15px;"> <span style="color: #047857;font-size: 17px;line-height:25px;">Model-Directed Attention and the Persistence of Wrong Mental Models: The Case of Pricing</span> <br> (with Yiming Liu and David Huffman)</p>
     design:
       columns: '1'
   - block: markdown
