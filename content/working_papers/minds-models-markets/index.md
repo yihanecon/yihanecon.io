@@ -5,7 +5,7 @@ title: 'Minds, Models and Markets: How Managerial Cognition Affects Pricing Stra
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yi Han, Yiming Liu, and David Huffman
+  - Yi Han, David Huffman, and Yiming Liu
 
 date: '2025-01-01T00:00:00Z'
 doi: ''

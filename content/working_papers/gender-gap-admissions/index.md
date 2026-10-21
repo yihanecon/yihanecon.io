@@ -5,7 +5,7 @@ title: 'The Gender Gap in Gender-Blind College Admissions'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yi Han, Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong
+  - Yi Han, Dorothea Kübler, Yiming Liu, Xinye Zheng, and Yibo Zong
 
 date: '2025-01-01T00:00:00Z'
 doi: ''

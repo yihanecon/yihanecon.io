@@ -31,8 +31,8 @@ sections:
       subtitle: ''
       text: |-
        <h2>Working Papers</h2>
-       <p style="font-size: 15px;"> <a href="uploads/manager_han_huffman_liu.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</a> <br> (with Yiming Liu and David Huffman) <br> <em>Revise and Resubmit at The American Economic Review</em></p> 
-       <p style="font-size: 15px;"> <a href="uploads/gender_gap_in_gender_blind_college_admissions.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">The Gender Gap in Gender-Blind College Admissions</a> <br> (with Yiming Liu, Dorothea Kübler, Xinye Zheng, and Yibo Zong)</p>
+       <p style="font-size: 15px;"> <a href="uploads/manager_han_huffman_liu.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</a> <br> (with David Huffman and Yiming Liu) <br> <em>Revise and Resubmit at The American Economic Review</em></p> 
+       <p style="font-size: 15px;"> <a href="uploads/gender_gap_in_gender_blind_college_admissions.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">The Gender Gap in Gender-Blind College Admissions</a> <br> (with Dorothea Kübler, Yiming Liu, Xinye Zheng, and Yibo Zong)</p>
        <p style="font-size: 15px;"> <a href="uploads/model_directed_attention_han_huffman_liu.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Model-Directed Attention and the Persistence of Wrong Mental Models: Evidence from Firm Pricing</a> <br> (with David Huffman and Yiming Liu)</p>
     design:
       columns: '1'
