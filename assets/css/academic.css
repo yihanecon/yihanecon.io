@@ -1,3 +1,12 @@
+/* Self-hosted two-character subset of Ma Shan Zheng (SIL OFL). */
+@font-face {
+  font-family: 'Academic Calligraphy';
+  src: url('../fonts/ma-shan-zheng-name.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+5955, U+97E9;
+}
 /* Academic reading surface: warm paper, emerald links, one shared grid. */
 :root {
   --academic-paper: #faf9f6;
@@ -30,6 +39,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   gap: 24px;
 }
 #site-header .navbar-brand {
+  font-family: 'Academic Calligraphy', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 18px;
   font-weight: 600;
   color: var(--academic-ink);
@@ -85,7 +95,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .academic-intro h1 span {
   display: inline-block;
   margin-left: 12px;
-  font-family: 'Songti SC', 'Noto Serif CJK SC', serif;
+  font-family: 'Academic Calligraphy', 'Songti SC', serif;
   font-size: .53em;
   font-weight: 400;
   letter-spacing: .08em;
