@@ -162,19 +162,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .course-entry h3 { margin: 0; font-size: 16px; line-height: 1.6; font-weight: 500; }
 .course-level { color: var(--academic-muted); font-size: 13px; line-height: 1.6; }
 .course-years { flex: 0 1 46%; max-width: 46%; margin: 0; color: var(--academic-muted); font-size: 13px; line-height: 1.7; font-variant-numeric: tabular-nums; text-align: right; }
-.academic-footer {
-  display: flex;
-  justify-content: space-between;
-  gap: 24px;
-  width: calc(100% - 2 * var(--academic-gutter));
-  max-width: var(--academic-width);
-  margin: 0 auto;
-  padding: 28px 0 36px;
-  color: var(--academic-muted);
-  font-size: 12px;
-  line-height: 1.7;
-}
-.academic-footer a { color: var(--academic-green); }
+#teaching .academic-section-inner { border-bottom: 0; }
 @media (max-width: 900px) {
   .academic-hero { grid-template-columns: minmax(0, 1fr) 208px; gap: 40px; padding: 56px 0; }
   .academic-portrait { width: 208px; }
@@ -201,7 +189,6 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   .paper-entry + .paper-entry { margin-top: 28px; }
   .paper-entry h3 { font-size: 16px; }
   .paper-entry p { font-size: 13px; }
-  .academic-footer { flex-direction: column; gap: 8px; padding-top: 24px; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
