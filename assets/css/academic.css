@@ -172,7 +172,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .paper-authors { color: var(--academic-muted); }
 .paper-details { color: var(--academic-ink); }
 .paper-details a { color: var(--academic-green); text-decoration: underline; }
-.paper-status { color: var(--academic-green); }
+.paper-status { color: var(--academic-muted); }
 .paper-status em { font-style: italic; }
 .course-list { list-style: none; padding: 0; margin: 0; }
 .course-entry { display: flex; align-items: baseline; justify-content: space-between; gap: 24px; padding: 18px 0; border-bottom: 1px solid var(--academic-line); }
