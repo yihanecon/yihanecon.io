@@ -24,6 +24,6 @@ organizations:
   - name:
 ---
 
-I am an associate professor in the School of Applied Economics at Renmin University of China, with research interests in behavioral and development economics.
+I am an Associate Professor in the School of Applied Economics at Renmin University of China, with research interests in behavioral and development economics.
 
-My research agenda focuses on the frictions that prevent individuals, firms, and markets from functioning efficiently, ranging from cognitive frictions, such as people's beliefs, mental models, and biases, to institutional frictions. I combine experimental and observational data to understand the sources and consequences of these frictions.
+My research agenda focuses on the frictions that prevent individuals, firms, and markets from functioning efficiently, ranging from cognitive frictions, such as people's beliefs, mental models, and biases, to institutional frictions. I combine observational and experimental data to understand the sources and consequences of these frictions.
