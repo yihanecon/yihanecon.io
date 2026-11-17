@@ -1,0 +1,5 @@
+{{/* A shared, semantic layout for the research and teaching lists. */}}
+<div class="academic-section-inner">
+  <h2>{{ .wcBlock.content.title }}</h2>
+  <div class="academic-entries">{{ .wcBlock.content.text | .wcPage.RenderString | safeHTML }}</div>
+</div>

@@ -1,94 +1,83 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
-  spacing: "2rem"
+  spacing: "0"
 
 sections:
   - block: resume-biography-3
+    id: about
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
     design:
-      css_class: dark
-      background:
-        color: '#003223'
-        image:
-          filename: hero-bg.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-  - block: markdown
+      css_class: academic-about
+  - block: academic-list
+    id: research
     content:
-      title: ''
-      subtitle: ''
+      title: Working Papers
       text: |-
-       <h2>Working Papers</h2>
-       <p style="font-size: 15px;"> <a href="uploads/manager_han_huffman_liu.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</a> <br> (with David Huffman and Yiming Liu) <br> <em>Revise and Resubmit at The American Economic Review</em></p> 
-       <p style="font-size: 15px;"> <a href="uploads/gender_gap_in_gender_blind_college_admissions.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">The Gender Gap in Gender-Blind College Admissions</a> <br> (with Dorothea Kübler, Yiming Liu, Xinye Zheng, and Yibo Zong)</p>
-       <p style="font-size: 15px;"> <a href="uploads/model_directed_attention_han_huffman_liu.pdf" style="color: #047857; font-weight: 600;font-size: 17px;line-height:25px;">Model-Directed Attention and the Persistence of Wrong Mental Models: Evidence from Firm Pricing</a> <br> (with David Huffman and Yiming Liu)</p>
+        <article class="paper-entry">
+          <h3><a href="uploads/manager_han_huffman_liu.pdf">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</a></h3>
+          <p class="paper-authors">(with David Huffman and Yiming Liu)</p>
+          <p class="paper-status"><em>Revise and Resubmit at The American Economic Review</em></p>
+        </article>
+        <article class="paper-entry">
+          <h3><a href="uploads/gender_gap_in_gender_blind_college_admissions.pdf">The Gender Gap in Gender-Blind College Admissions</a></h3>
+          <p class="paper-authors">(with Dorothea Kübler, Yiming Liu, Xinye Zheng, and Yibo Zong)</p>
+        </article>
+        <article class="paper-entry">
+          <h3><a href="uploads/model_directed_attention_han_huffman_liu.pdf">Model-Directed Attention and the Persistence of Wrong Mental Models: Evidence from Firm Pricing</a></h3>
+          <p class="paper-authors">(with David Huffman and Yiming Liu)</p>
+        </article>
     design:
-      columns: '1'
-  - block: markdown
+      css_class: academic-section
+  - block: academic-list
     id: publications
     content:
-      title: ''
-      subtitle: ''
+      title: Published Papers
       text: |-
-       <h2>Published Papers</h2>
-       <p style="line-height:26px;font-size: 15px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264275125005347" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Reducing Administrative Barriers: Evidence from China's County-to-district Reform on Export Product Quality</a> <br>
-         (with Qi Guo, Jun Liu, Shengjun Zhu and Canfei He) <br> <em>Cities</em>, 166 (2025): 106233</p>
-       <p style="line-height:26px;font-size: 15px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Inter-Regional Barriers and Economic Growth：Evidence from China</a> <br>
-         (with Mingqin Wu) <br> <em>Journal of Development Economics</em>, 167 (2024): 103197. <br> 
-         Coverage:<a href="https://www.economist.com/china/2022/07/21/the-trade-war-within-china" style="font-size: 15px;line-height:26px;">Economist</a> & <a href="https://voxchina.org/show-3-374.html" style="font-size: 15px;line-height:26px;">VoxChina</a>.</p>
-       <p style="line-height:26px;font-size: 15px;"> <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4384" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Confusing Context with Character: Correspondence Bias in Economic Interactions</a> <br>
-         (with Yiming Liu and George Loewenstein) <br> <em>Management Science</em>, 69.2 (2023): 1070-1091.</p> 
-       <p style="line-height:26px;font-size: 15px;"> <a href="https://link.springer.com/article/10.1007/s10640-019-00374-3" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">Conservation Spillovers: the Effect of Rooftop Solar on Climate Change Beliefs</a> <br>
-         (with Graham Beattie and Andrea LaNauze) <br> <em>Environmental and Resource Economics</em>, 74.3(2019): 1425-1451.</p>
-       <p style="line-height:26px;font-size: 15px;"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797" style="color: #047857; font-weight: 600;font-size: 17px;line-height:20px;">On the Demand for Natural Gas in Urban China</a> <br>
-         (with Xinye Zheng and Yihua Yu) <br> <em>Energy Policy</em>, 70(2014): 57-63.</p>
-
+        <article class="paper-entry">
+          <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0264275125005347">Reducing Administrative Barriers: Evidence from China's County-to-district Reform on Export Product Quality</a></h3>
+          <p class="paper-authors">(with Qi Guo, Jun Liu, Shengjun Zhu and Canfei He)</p>
+          <p class="paper-details"><em>Cities</em>, 166 (2025): 106233</p>
+        </article>
+        <article class="paper-entry">
+          <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530">Inter-Regional Barriers and Economic Growth：Evidence from China</a></h3>
+          <p class="paper-authors">(with Mingqin Wu)</p>
+          <p class="paper-details"><em>Journal of Development Economics</em>, 167 (2024): 103197.</p>
+          <p class="paper-details">Coverage: <a href="https://www.economist.com/china/2022/07/21/the-trade-war-within-china">Economist</a> & <a href="https://voxchina.org/show-3-374.html">VoxChina</a>.</p>
+        </article>
+        <article class="paper-entry">
+          <h3><a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4384">Confusing Context with Character: Correspondence Bias in Economic Interactions</a></h3>
+          <p class="paper-authors">(with Yiming Liu and George Loewenstein)</p>
+          <p class="paper-details"><em>Management Science</em>, 69.2 (2023): 1070-1091.</p>
+        </article>
+        <article class="paper-entry">
+          <h3><a href="https://link.springer.com/article/10.1007/s10640-019-00374-3">Conservation Spillovers: the Effect of Rooftop Solar on Climate Change Beliefs</a></h3>
+          <p class="paper-authors">(with Graham Beattie and Andrea LaNauze)</p>
+          <p class="paper-details"><em>Environmental and Resource Economics</em>, 74.3(2019): 1425-1451.</p>
+        </article>
+        <article class="paper-entry">
+          <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797">On the Demand for Natural Gas in Urban China</a></h3>
+          <p class="paper-authors">(with Xinye Zheng and Yihua Yu)</p>
+          <p class="paper-details"><em>Energy Policy</em>, 70(2014): 57-63.</p>
+        </article>
     design:
-      columns: '1'
-  - block: markdown
+      css_class: academic-section
+  - block: academic-list
     id: teaching
     content:
-      title: ''
-      subtitle: ''
+      title: Teaching
       text: |-
-       <h2>Teaching</h2>
-       <p style="font-size: 15px;line-height:28px;">Advanced Econometrics (PhD), Spring 2021, 2022, 2023, 2024, 2025, 2026</p> 
-       <p style="font-size: 15px;line-height:28px;">Microeconometrics (undergraduate), Spring 2023, 2024, 2025, 2026</p> 
-       <p style="font-size: 15px;line-height:28px;">Behavioral Economics (undergraduate), Spring 2023, 2024, 2025, 2026</p> 
-       <p style="font-size: 15px;line-height:28px;">Introduction to Macroeconomics (undergraduate), Spring 2021, Spring 2022</p> 
-       <p style="font-size: 15px;line-height:28px;">Introduction to Microeconomics (undergraduate), Summer 2018, 2019</p> 
+        <ul class="course-list">
+        <li class="course-entry"><div><h3>Advanced Econometrics</h3><span class="course-level">PhD</span></div><p class="course-years">Spring 2021, 2022, 2023, 2024, 2025, 2026</p></li>
+        <li class="course-entry"><div><h3>Microeconometrics</h3><span class="course-level">undergraduate</span></div><p class="course-years">Spring 2023, 2024, 2025, 2026</p></li>
+        <li class="course-entry"><div><h3>Behavioral Economics</h3><span class="course-level">undergraduate</span></div><p class="course-years">Spring 2023, 2024, 2025, 2026</p></li>
+        <li class="course-entry"><div><h3>Introduction to Macroeconomics</h3><span class="course-level">undergraduate</span></div><p class="course-years">Spring 2021, Spring 2022</p></li>
+        <li class="course-entry"><div><h3>Introduction to Microeconomics</h3><span class="course-level">undergraduate</span></div><p class="course-years">Summer 2018, 2019</p></li>
+        </ul>
     design:
-      columns: '1'
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-        
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      css_class: academic-section
 ---
