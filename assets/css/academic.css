@@ -1,7 +1,7 @@
-/* Self-hosted two-character subset of Ma Shan Zheng (SIL OFL). */
+/* Self-hosted two-character subset of Liu Jian Mao Cao (SIL OFL). */
 @font-face {
   font-family: 'Academic Calligraphy';
-  src: url('../fonts/ma-shan-zheng-name.ttf') format('truetype');
+  src: url('../fonts/liu-jian-mao-cao-name.ttf') format('truetype');
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -39,6 +39,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   gap: 24px;
 }
 #site-header .navbar-brand {
+  font-synthesis: none;
   font-family: 'Academic Calligraphy', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 18px;
   font-weight: 600;
