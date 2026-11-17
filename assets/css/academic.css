@@ -1,10 +1,11 @@
-/* Self-hosted two-character subset of Liu Jian Mao Cao (SIL OFL). */
+/* Self-hosted two-character subset of LXGW WenKai TC (SIL OFL). */
 @font-face {
   font-family: 'Academic Calligraphy';
-  src: url('../fonts/liu-jian-mao-cao-name.ttf') format('truetype');
+  src: url('../fonts/lxgw-wenkai-name.ttf') format('truetype');
   font-style: normal;
   font-weight: 400;
   font-display: swap;
+  size-adjust: 110%;
   unicode-range: U+5955, U+97E9;
 }
 /* Academic reading surface: warm paper, emerald links, one shared grid. */
