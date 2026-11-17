@@ -5,13 +5,11 @@
   <div class="academic-intro">
     <h1>{{ $person.Title }} <span lang="zh">韩奕</span></h1>
     <div class="academic-bio">{{ $person.Content }}</div>
-    <div class="academic-contact">
-      <a class="email-link" href="mailto:yihanecon@ruc.edu.cn">yihanecon@ruc.edu.cn</a>
-      <nav class="profile-links" aria-label="Academic profile">
-        <a class="cv-link" href="{{ "uploads/resume.pdf" | relURL }}">Curriculum vitae <span aria-hidden="true">↗</span></a>
-        <a href="https://scholar.google.com/citations?user=TmVLv60AAAAJ&amp;hl=en">Google Scholar <span aria-hidden="true">↗</span></a>
-      </nav>
-    </div>
+    <nav class="academic-contact" aria-label="Contact and academic profile">
+      <a href="mailto:yihanecon@ruc.edu.cn">yihanecon@ruc.edu.cn</a>
+      <a class="cv-link" href="{{ "uploads/resume.pdf" | relURL }}">Curriculum vitae</a>
+      <a href="https://scholar.google.com/citations?user=TmVLv60AAAAJ&amp;hl=en">Google Scholar</a>
+    </nav>
   </div>
   {{ with $avatar }}
     {{ $portrait := .Fill "640x800 Center" }}

@@ -95,19 +95,27 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .academic-bio { max-width: 70ch; font-size: 16px; line-height: 1.85; }
 .academic-bio p { margin: 0 0 18px; }
 .academic-bio p:last-child { margin-bottom: 0; }
-.academic-contact { margin-top: 26px; font-size: 14px; }
-.academic-contact a { color: var(--academic-green); text-decoration: none; }
-.academic-contact a:hover { text-decoration: underline; }
-.email-link { display: inline-block; padding: 4px 0; }
-.profile-links { display: flex; align-items: center; gap: 24px; margin-top: 16px; }
-.profile-links a { display: inline-flex; align-items: center; gap: 12px; min-height: 44px; font-weight: 500; }
-.profile-links .cv-link {
-  padding: 0 16px;
-  border: 1px solid #b8c8be;
-  border-radius: 4px;
-  transition: background-color .18s ease, border-color .18s ease;
+.academic-contact {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 28px;
+  margin-top: 24px;
 }
-.profile-links .cv-link:hover { background: #edf1e9; border-color: var(--academic-green); }
+.academic-contact a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: var(--academic-green);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration: underline;
+  text-decoration-color: #b8c8be;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 5px;
+}
+.academic-contact a:hover { text-decoration-color: currentColor; }
 .academic-portrait { width: 256px; align-self: center; }
 .academic-portrait img {
   display: block;
@@ -182,8 +190,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   .academic-intro h1 span { display: block; font-size: 22px; margin: 12px 0 0; }
   .academic-portrait { grid-column: 2; grid-row: 1; width: 104px; }
   .academic-bio { grid-column: 1 / -1; font-size: 15px; line-height: 1.85; }
-  .academic-contact { grid-column: 1 / -1; margin-top: 0; }
-  .profile-links { margin-top: 12px; }
+  .academic-contact { grid-column: 1 / -1; margin-top: 0; flex-direction: column; align-items: flex-start; }
   .academic-section-inner { display: block; padding: 36px 0; }
   .academic-section-inner > h2 { margin: 0 0 28px; font-size: 27px; }
   .paper-entry + .paper-entry { margin-top: 28px; }
