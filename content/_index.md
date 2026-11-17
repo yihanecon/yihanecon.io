@@ -21,7 +21,7 @@ sections:
         <article class="paper-entry">
           <h3><a href="uploads/manager_han_huffman_liu.pdf">Minds, Models and Markets: How Managerial Cognition Affects Pricing Strategies</a></h3>
           <p class="paper-authors">(with David Huffman and Yiming Liu)</p>
-          <p class="paper-status"><em>Revise and Resubmit at The American Economic Review</em></p>
+          <p class="paper-status">Revise and Resubmit at <em>The American Economic Review</em></p>
         </article>
         <article class="paper-entry">
           <h3><a href="uploads/gender_gap_in_gender_blind_college_admissions.pdf">The Gender Gap in Gender-Blind College Admissions</a></h3>
