@@ -1,11 +1,10 @@
-/* Self-hosted two-character subset of LXGW WenKai TC (SIL OFL). */
+/* Self-hosted two-character subset of Fandol Kai (GPL with font exception). */
 @font-face {
   font-family: 'Academic Calligraphy';
-  src: url('../fonts/lxgw-wenkai-name.ttf') format('truetype');
+  src: local('KaiTi'), local('Kaiti SC'), local('STKaiti'), url('../fonts/fandol-kai-name.woff2') format('woff2');
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  size-adjust: 110%;
   unicode-range: U+5955, U+97E9;
 }
 /* Academic reading surface: warm paper, emerald links, one shared grid. */
